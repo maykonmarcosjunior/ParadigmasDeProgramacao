@@ -1,6 +1,7 @@
 {--
-Altere a classe MeuInt vista em sala de aula e dispon ́ıvel nos slides no Moodle para suportar novos m ́etodos
-e opera ̧c ̃oes, descritos abaixo:
+Altere a classe MeuInt vista em sala de aula e disponıvel
+nos slides no Moodle para suportar novos metodos
+e operacoes, descritos abaixo:
 A: par :: x -> Bool - Este m ́etodo deve retornar se um dado n ́umero  ́e par ou n ̃ao.
 B: impar :: x -> Bool - Este m ́etodo deve retornar se um dado n ́umero  ́e  ́ımpar ou n ̃ao.
 C: primo :: x -> Bool - Este m ́etodo deve retornar se um dado n ́umero  ́e primo ou n ̃ao.
